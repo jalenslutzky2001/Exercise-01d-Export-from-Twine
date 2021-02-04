@@ -33,7 +33,7 @@ The final state of the file should be as follows (replacing my information with 
 ```
 # Exercise-01d-Export-from-Twine
 
-Exercise for MSCH-C220, 1 February 2021
+Exercise for MSCH-C220, 3 February 2021
 
 A JSON file, describing an interactive fiction game, exported from Twine
 
@@ -47,5 +47,5 @@ Created using Twine 2 and exported with Twison 0.0.1 (https://github.com/lazerwa
 None
 
 ## Created by
-Jason Francis
+Jalen Slutzky
 ```
